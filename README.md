@@ -22,19 +22,7 @@ The repository demonstrates practical applications of NLP concepts such as text 
 
 # **🛠️Technologies Used**
 
-🐍 Python
-
-🤖 Natural Language Processing (NLP)
-
-📊 Pandas and NumPy
-
-🧠 Scikit-learn
-
-📝 NLTK / SpaCy
-
-📈 Matplotlib / Seaborn
-
-📓 Jupyter Notebook
+🐍 Python,  🤖 Natural Language Processing (NLP),  📊 Pandas and NumPy,  🧠 Scikit-learn,  📝 NLTK / SpaCy,  📈 Matplotlib / Seaborn,  📓 Jupyter Notebook
   
 # **📂Example Projects Included**
 
